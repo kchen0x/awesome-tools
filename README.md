@@ -18,7 +18,7 @@ A curated list of awesome softwares, command-line and development tools.
 - [htop] - Enhanced `top`. An interactive process viewer for Unix.
 - [bashhub] - ☁️ Bash history in the cloud. Indexed and searchable.
 - [fzf] - Command-line fuzzy finder.
-- [ccat] - Like cat but displays content with syntax highlighting.
+- [ccat] - Like `cat` but displays content with syntax highlighting.
 
 
 [awesome-link]: https://github.com/sindresorhus/awesome
