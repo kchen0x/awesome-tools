@@ -4,6 +4,8 @@
 
 A curated list of awesome softwares for Mac, and command-line tools for all developers. 
 
+[中文版本](README-zh.md)
+
 ## Mac Softwares
 
 ## Terminal Tools
@@ -28,6 +30,8 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
 
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[chinese-badge]: http://kchen.cc/badges/chinese.svg
+[english-badge]: http://kchen.cc/badges/english.svg
 [tmux]: https://tmux.github.io
 [k-tmux]: https://github.com/quentin-chen/k-tmux
 [vim]: http://www.vim.org
