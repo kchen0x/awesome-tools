@@ -5,7 +5,7 @@ A curated list of awesome softwares, command-line and development tools.
 
 ## Terminal Tools
 
-- [zsh] - Powerful shell replacement of Bash.
+- [zsh] - Powerful shell replacement of `Bash`.
 	- [oh-my-zsh] - Elegant framework for managing your zsh configuration. [Recommend Plugins:]
 		- **git**: Officail plugin providing alias for git
 		- **z**: Fast and powerful fuzzy autojump tool.
