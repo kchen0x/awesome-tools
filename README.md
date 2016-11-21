@@ -7,10 +7,10 @@ A curated list of awesome softwares, command-line and development tools.
 
 - [zsh] - Powerful shell replacement of Bash.
 	- [oh-my-zsh] - Elegant framework for managing your zsh configuration. [Recommend Plugins:]
-		- git: Officail plugin providing alias for git
-		- z: Fast and powerful fuzzy autojump tool.
-		- d: Fast return to father directory.
-		- extract: Easy way to uncompress ball file with one general command.
+		- **git**: Officail plugin providing alias for git
+		- **z**: Fast and powerful fuzzy autojump tool.
+		- **d**: Fast return to father directory.
+		- **extract**: Easy way to uncompress ball file with one general command.
 - [tmux] - Terminal multiplexer.
 	- [k-tmux] - Tmux configuration.
 - [vim] - Terminal editor.
@@ -29,3 +29,5 @@ A curated list of awesome softwares, command-line and development tools.
 [htop]: https://hisham.hm/htop/
 [bashhub]: https://github.com/rcaloras/bashhub-client
 [fzf]: https://github.com/junegunn/fzf
+[zsh]: https://www.zsh.org
+[oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh
