@@ -6,9 +6,9 @@ A curated list of awesome softwares, command-line and development tools.
 ## Terminal Tools
 
 - [tmux] - Terminal multiplexer.
-- [k-tmux] - Tmux configuration.
+	- [k-tmux] - Tmux configuration.
 - [vim] - Terminal editor.
-- [k-vim] - Vim configuration.
+	- [k-vim] - Vim configuration.
 - [htop] - Enhanced `top`. An interactive process viewer for Unix
 
 
