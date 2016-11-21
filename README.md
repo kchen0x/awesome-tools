@@ -1,5 +1,5 @@
 # awesome-tools [![Awesome][awesome-badge]][awesome-link]
-A curated list of awesome softwares, command-line and development tools. 
+A curated list of awesome softwares for Mac, and command-line tools for all developers.  
 
 ## Mac Softwares
 
