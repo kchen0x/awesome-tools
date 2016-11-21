@@ -15,7 +15,7 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
 	- [k-tmux] - Tmux configuration.
 - [vim] - Terminal editor.
 	- [k-vim] - Vim configuration.
-- [aria2] - The ultra fast download utility.
+- [aria2] - The ultra fast multi protocols download utility.
 	- [webui-aria2] - Simple web UI for `aira2`.
 - [htop] - Enhanced `top`. An interactive process viewer for Unix.
 - [bashhub] - ☁️ Bash history in the cloud. Indexed and searchable.
