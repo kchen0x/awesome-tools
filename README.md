@@ -6,8 +6,8 @@ A curated list of awesome softwares, command-line and development tools.
 ## Terminal Tools
 
 - [zsh] - Powerful shell replacement of `Bash`.
-	- [oh-my-zsh] - Elegant framework for managing your zsh configuration. [Recommend Plugins:]
-		- **git**: Officail plugin providing alias for git
+	- [oh-my-zsh] - Elegant framework for managing your zsh configuration. Recommend [Plugins]:
+		- **git**: Officail plugin providing alias for `git`.
 		- **z**: Fast and powerful fuzzy autojump tool.
 		- **d**: Fast return to father directory.
 		- **extract**: Easy way to uncompress ball file with one general command.
@@ -15,9 +15,10 @@ A curated list of awesome softwares, command-line and development tools.
 	- [k-tmux] - Tmux configuration.
 - [vim] - Terminal editor.
 	- [k-vim] - Vim configuration.
-- [htop] - Enhanced `top`. An interactive process viewer for Unix
+- [htop] - Enhanced `top`. An interactive process viewer for Unix.
 - [bashhub] - ☁️ Bash history in the cloud. Indexed and searchable.
-- [fzf] - Command-line fuzzy finder
+- [fzf] - Command-line fuzzy finder.
+- [ccat] - Like cat but displays content with syntax highlighting.
 
 
 [awesome-link]: https://github.com/sindresorhus/awesome
@@ -31,3 +32,5 @@ A curated list of awesome softwares, command-line and development tools.
 [fzf]: https://github.com/junegunn/fzf
 [zsh]: https://www.zsh.org
 [oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh
+[Plugins]: https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins
+[ccat]: https://github.com/jingweno/ccat
