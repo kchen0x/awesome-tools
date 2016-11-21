@@ -10,6 +10,8 @@ A curated list of awesome softwares, command-line and development tools.
 - [vim] - Terminal editor.
 	- [k-vim] - Vim configuration.
 - [htop] - Enhanced `top`. An interactive process viewer for Unix
+- [bashhub] - ☁️ Bash history in the cloud. Indexed and searchable.
+- [fzf] - Command-line fuzzy finder
 
 
 [awesome-link]: https://github.com/sindresorhus/awesome
@@ -19,3 +21,5 @@ A curated list of awesome softwares, command-line and development tools.
 [vim]: http://www.vim.org
 [k-vim]: https://github.com/wklken/k-vim
 [htop]: https://hisham.hm/htop/
+[bashhub]: https://github.com/rcaloras/bashhub-client
+[fzf]: https://github.com/junegunn/fzf
