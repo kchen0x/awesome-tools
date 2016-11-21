@@ -1,6 +1,6 @@
 # awesome-tools [![Awesome][awesome-badge]][awesome-link]
 
-[![Chinese][chinese-badge]](README-zh.md)[![English][english-badge]](README.md)
+[![Chinese][chinese-badge]](README-zh.md) [![English][english-badge]](README.md)
 
 A curated list of awesome softwares for Mac, and command-line tools for all developers. 
 
