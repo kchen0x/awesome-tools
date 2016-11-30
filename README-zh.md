@@ -26,6 +26,9 @@
 - [bashhub] - ☁️ 把终端命令历史同步到云端，多设备共享。提供索引和查询。
 - [fzf] - 强大的模糊匹配和查找。
 - [ccat] - 增强的 `cat` 命令，支持语法着色。
+- [lolcat] - 彩虹色的 `cat` 命令，你的独角兽。
+- [mtr] - 结合了 `traceroute` 和 `ping` 的网络分析工具。
+- [tig] - 基于 Ncurses 的命令行文本模式 `git` 交互界面。
 
 
 [awesome-link]: https://github.com/sindresorhus/awesome
@@ -45,3 +48,6 @@
 [ccat]: https://github.com/jingweno/ccat
 [aria2]: https://aria2.github.io
 [webui-aria2]: https://github.com/ziahamza/webui-aria2
+[mtr]: http://www.tutorialspoint.com/unix_commands/mtr.htm
+[lolcat]: https://github.com/busyloop/lolcat
+[tig]: http://jonas.nitro.dk/tig

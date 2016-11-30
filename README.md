@@ -28,7 +28,7 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
 - [ccat] - Like `cat` but displays content with syntax highlighting.
 - [lolcat] - Rainbows and unicorns `cat`.
 - [mtr] - Combining the functionality of the `traceroute` and `ping` in a single network diagnostic tool.
-- [tig] - Ncurses-based text-mode interface for git
+- [tig] - Ncurses-based text-mode interface for `git`.
 
 
 [awesome-link]: https://github.com/sindresorhus/awesome
