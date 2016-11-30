@@ -26,6 +26,9 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
 - [bashhub] - ☁️ Bash history in the cloud. Indexed and searchable.
 - [fzf] - Command-line fuzzy finder.
 - [ccat] - Like `cat` but displays content with syntax highlighting.
+- [lolcat] - Rainbows and unicorns `cat`.
+- [mtr] - Combining the functionality of the `traceroute` and `ping` in a single network diagnostic tool.
+- [tig] - Ncurses-based text-mode interface for git
 
 
 [awesome-link]: https://github.com/sindresorhus/awesome
@@ -45,3 +48,6 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
 [ccat]: https://github.com/jingweno/ccat
 [aria2]: https://aria2.github.io
 [webui-aria2]: https://github.com/ziahamza/webui-aria2
+[mtr]: http://www.tutorialspoint.com/unix_commands/mtr.htm
+[lolcat]: https://github.com/busyloop/lolcat
+[tig]: http://jonas.nitro.dk/tig
