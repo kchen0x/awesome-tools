@@ -29,6 +29,7 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
 - [lolcat] - Rainbows and unicorns `cat`.
 - [mtr] - Combining the functionality of the `traceroute` and `ping` in a single network diagnostic tool.
 - [tig] - Ncurses-based text-mode interface for `git`.
+- [nmap] - A free and open source utility for network discovery and security auditing.
 
 
 [awesome-link]: https://github.com/sindresorhus/awesome
@@ -51,3 +52,4 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
 [mtr]: http://www.tutorialspoint.com/unix_commands/mtr.htm
 [lolcat]: https://github.com/busyloop/lolcat
 [tig]: http://jonas.nitro.dk/tig
+[nmap]: https://nmap.org
