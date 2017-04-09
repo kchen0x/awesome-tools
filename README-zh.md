@@ -30,6 +30,7 @@
 - [lolcat] - 彩虹色的 `cat` 命令，你的独角兽。
 - [mtr] - 结合了 `traceroute` 和 `ping` 的网络分析工具。
 - [tig] - 基于 Ncurses 的命令行文本模式 `git` 交互界面。
+- [nmap] - 用于网络发现和安全审计的免费开源工具。
 
 
 [awesome-link]: https://github.com/sindresorhus/awesome
@@ -53,3 +54,4 @@
 [lolcat]: https://github.com/busyloop/lolcat
 [tig]: http://jonas.nitro.dk/tig
 [vim-plug]: https://github.com/junegunn/vim-plug
+[nmap]: https://nmap.org
