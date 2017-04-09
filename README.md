@@ -20,6 +20,7 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
 	- [k-tmux] - Tmux configuration.
 - [vim] - Terminal editor.
 	- [k-vim] - Vim configuration.
+	- [vim-plug] - A minimalist Vim plugin manager.
 - [aria2] - The ultra fast multi protocols download utility.
 	- [webui-aria2] - Simple web UI for `aira2`.
 - [htop] - Enhanced `top`. An interactive process viewer for Unix.
@@ -51,3 +52,4 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
 [mtr]: http://www.tutorialspoint.com/unix_commands/mtr.htm
 [lolcat]: https://github.com/busyloop/lolcat
 [tig]: http://jonas.nitro.dk/tig
+[vim-plug]: https://github.com/junegunn/vim-plug

@@ -20,6 +20,7 @@
 	- [k-tmux] - 完善好用的 `tmux` 配置。
 - [vim] - 神的编辑器。
 	- [k-vim] - 完善好用的 `vim` 配置。
+	- [vim-plug] - 目前**最快插件管理器**，并发进行安装和更新。
 - [aria2] - 支持多协议的极速下载工具。
 	- [webui-aria2] - `aira2` 的简单 Web UI。
 - [htop] - 增强的 `top` 命令，提供交互式的系统进程查看。
@@ -51,3 +52,4 @@
 [mtr]: http://www.tutorialspoint.com/unix_commands/mtr.htm
 [lolcat]: https://github.com/busyloop/lolcat
 [tig]: http://jonas.nitro.dk/tig
+[vim-plug]: https://github.com/junegunn/vim-plug
