@@ -32,6 +32,7 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
 - [tig] - Ncurses-based text-mode interface for `git`.
 - [nmap] - A free and open source utility for network discovery and security auditing.
 - [frp] - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [mackup] - Keep your application settings in sync (OS X/Linux).
 
 
 [awesome-link]: https://github.com/sindresorhus/awesome
@@ -57,3 +58,4 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
 [vim-plug]: https://github.com/junegunn/vim-plug
 [nmap]: https://nmap.org
 [frp]: https://github.com/fatedier/frp
+[mackup]: https://github.com/lra/mackup

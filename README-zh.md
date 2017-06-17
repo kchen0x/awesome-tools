@@ -32,6 +32,7 @@
 - [tig] - 基于 Ncurses 的命令行文本模式 `git` 交互界面。
 - [nmap] - 用于网络发现和安全审计的免费开源工具。
 - [frp] - 简单快速的反向代理服务器，支持 TCP 和 UDP。
+- [mackup] - 快速备份你的 Mac 或 Linux 上的软件配置。 
 
 
 [awesome-link]: https://github.com/sindresorhus/awesome
@@ -57,3 +58,4 @@
 [vim-plug]: https://github.com/junegunn/vim-plug
 [nmap]: https://nmap.org
 [frp]: https://github.com/fatedier/frp
+[mackup]: https://github.com/lra/mackup
