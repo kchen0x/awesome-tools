@@ -8,6 +8,8 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
 
 ## Mac Softwares
 
+- [Karabiner-Elements] - A powerful utility for keyboard customization.
+
 ## Terminal Tools
 
 - [zsh] - Powerful shell replacement of `Bash`.
@@ -59,3 +61,4 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
 [nmap]: https://nmap.org
 [frp]: https://github.com/fatedier/frp
 [mackup]: https://github.com/lra/mackup
+[Karabiner-Elements]: https://github.com/tekezo/Karabiner-Elements

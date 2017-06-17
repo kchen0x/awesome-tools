@@ -7,6 +7,7 @@
  [English Version](README.md)
 
 ## Mac 软件
+- [Karabiner-Elements] - macOS Sierra 下强大的键盘自定义修改工具。
 
 ## 终端工具
 
@@ -59,3 +60,4 @@
 [nmap]: https://nmap.org
 [frp]: https://github.com/fatedier/frp
 [mackup]: https://github.com/lra/mackup
+[Karabiner-Elements]: https://github.com/tekezo/Karabiner-Elements
