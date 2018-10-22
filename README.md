@@ -9,6 +9,7 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
 ## Mac Softwares
 
 - [Karabiner-Elements] - A powerful utility for keyboard customization.
+- [Proxyee Down] - A high speed http download management. (download sniffing and Baidu Pan proxy)
 
 ## Terminal Tools
 
@@ -66,3 +67,4 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
 [Karabiner-Elements]: https://github.com/tekezo/Karabiner-Elements
 [zsh-autosuggestions]: https://github.com/zsh-users/zsh-autosuggestions
 [zsh-syntax-highlighting]: https://github.com/zsh-users/zsh-syntax-highlighting
+[Proxyee Down]: https://github.com/proxyee-down-org/proxyee-down

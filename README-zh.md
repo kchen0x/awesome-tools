@@ -8,6 +8,7 @@
 
 ## Mac 软件
 - [Karabiner-Elements] - macOS Sierra 下强大的键盘自定义修改工具。
+- [Proxyee Down] - 一款开源的免费 HTTP 高速下载器（通过代理方式全网嗅探，可使用百度云加速）
 
 ## 终端工具
 
@@ -65,3 +66,4 @@
 [Karabiner-Elements]: https://github.com/tekezo/Karabiner-Elements
 [zsh-autosuggestions]: https://github.com/zsh-users/zsh-autosuggestions
 [zsh-syntax-highlighting]: https://github.com/zsh-users/zsh-syntax-highlighting
+[Proxyee Down]: https://github.com/proxyee-down-org/proxyee-down
