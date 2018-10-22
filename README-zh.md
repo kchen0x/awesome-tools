@@ -17,6 +17,8 @@
 		- **z**: 快速又强大的模糊自动跳转工具，目录间跳转非常方便。
 		- **d**: 迅速返回指定父级目录。
 		- **extract**: 一条命令，迅速解压各种压缩包。
+        - [zsh-autosuggestions]: 提供像 Fish 一样的命令自动建议。
+        - [zsh-syntax-highlighting]: 提供像 Fish 一样的命令高亮显示。
 - [tmux] - 强大的终端多路器。
 	- [k-tmux] - 完善好用的 `tmux` 配置。
 - [vim] - 神的编辑器。
@@ -61,3 +63,5 @@
 [frp]: https://github.com/fatedier/frp
 [mackup]: https://github.com/lra/mackup
 [Karabiner-Elements]: https://github.com/tekezo/Karabiner-Elements
+[zsh-autosuggestions]: https://github.com/zsh-users/zsh-autosuggestions
+[zsh-syntax-highlighting]: https://github.com/zsh-users/zsh-syntax-highlighting

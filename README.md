@@ -18,6 +18,8 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
 		- **z**: Fast and powerful fuzzy autojump tool.
 		- **d**: Fast return to father directory.
 		- **extract**: Easy way to uncompress ball file with one general command.
+        - [zsh-autosuggestions]: Fish-like autosuggestions for zsh.
+        - [zsh-syntax-highlighting]: Fish shell like syntax highlighting for Zsh.
 - [tmux] - Terminal multiplexer.
 	- [k-tmux] - Tmux configuration.
 - [vim] - Terminal editor.
@@ -62,3 +64,5 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
 [frp]: https://github.com/fatedier/frp
 [mackup]: https://github.com/lra/mackup
 [Karabiner-Elements]: https://github.com/tekezo/Karabiner-Elements
+[zsh-autosuggestions]: https://github.com/zsh-users/zsh-autosuggestions
+[zsh-syntax-highlighting]: https://github.com/zsh-users/zsh-syntax-highlighting
