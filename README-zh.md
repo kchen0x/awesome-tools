@@ -47,7 +47,7 @@
 [tmux]: https://tmux.github.io
 [k-tmux]: https://github.com/quentin-chen/k-tmux
 [vim]: http://www.vim.org
-[k-vim]: https://github.com/wklken/k-vim
+[k-vim]: https://github.com/kchen0x/k-vim
 [htop]: https://hisham.hm/htop/
 [bashhub]: https://github.com/rcaloras/bashhub-client
 [fzf]: https://github.com/junegunn/fzf
