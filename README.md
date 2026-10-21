@@ -12,6 +12,8 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
     - [GokuRakuJoudo] - A karabiner-elements parser using EDN format, easy to use.
 - [Proxyee Down] - A high speed http download management. (download sniffing and Baidu Pan proxy)
 
+- [Glim] - macOS viewer for Markdown, PDF, data and source files, with basic text editing.
+
 ## Terminal Tools
 
 - [zsh] - Powerful shell replacement of `Bash`.
@@ -70,3 +72,4 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
 [zsh-syntax-highlighting]: https://github.com/zsh-users/zsh-syntax-highlighting
 [Proxyee Down]: https://github.com/proxyee-down-org/proxyee-down
 [GokuRakuJoudo]: https://github.com/yqrashawn/GokuRakuJoudo
+[Glim]: https://github.com/NeoPanic/Glim

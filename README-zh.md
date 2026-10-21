@@ -11,6 +11,8 @@
     - [GokuRakuJoudo] - karabiner-elements 的配置转换工具，使用 EDN 格式进行配置，十分简单易用。
 - [Proxyee Down] - 一款开源的免费 HTTP 高速下载器（通过代理方式全网嗅探，可使用百度云加速）
 
+- [Glim] - macOS 文件查看器，支持 Markdown、PDF、数据和源代码预览，以及基础文本编辑。
+
 ## 终端工具
 
 - [zsh] - 用于替代 `Bash` 的强大 shell。
@@ -69,3 +71,4 @@
 [zsh-syntax-highlighting]: https://github.com/zsh-users/zsh-syntax-highlighting
 [Proxyee Down]: https://github.com/proxyee-down-org/proxyee-down
 [GokuRakuJoudo]: https://github.com/yqrashawn/GokuRakuJoudo
+[Glim]: https://github.com/NeoPanic/Glim
