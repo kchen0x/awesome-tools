@@ -13,6 +13,7 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
 - [Proxyee Down] - A high speed http download management. (download sniffing and Baidu Pan proxy)
 
 - [Glim] - macOS viewer for Markdown, PDF, data and source files, with basic text editing.
+- [LayoutKeeper] - macOS menu bar utility that restores window positions and Spaces when reconnecting external monitors, switches display arrangements per USB-C port, and syncs external monitor DDC brightness with the built-in display.
 
 ## Terminal Tools
 
@@ -73,3 +74,4 @@ A curated list of awesome softwares for Mac, and command-line tools for all deve
 [Proxyee Down]: https://github.com/proxyee-down-org/proxyee-down
 [GokuRakuJoudo]: https://github.com/yqrashawn/GokuRakuJoudo
 [Glim]: https://github.com/NeoPanic/Glim
+[LayoutKeeper]: https://github.com/tumingke0/LayoutKeeper

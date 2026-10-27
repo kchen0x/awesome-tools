@@ -12,6 +12,7 @@
 - [Proxyee Down] - 一款开源的免费 HTTP 高速下载器（通过代理方式全网嗅探，可使用百度云加速）
 
 - [Glim] - macOS 文件查看器，支持 Markdown、PDF、数据和源代码预览，以及基础文本编辑。
+- [LayoutKeeper] - macOS 外接显示器窗口与桌面（Space）自动恢复工具，支持按机身 C 口自动切换显示器排列、外接屏 DDC 亮度跟随内建屏幕环境光自动变化及防休眠。
 
 ## 终端工具
 
@@ -72,3 +73,4 @@
 [Proxyee Down]: https://github.com/proxyee-down-org/proxyee-down
 [GokuRakuJoudo]: https://github.com/yqrashawn/GokuRakuJoudo
 [Glim]: https://github.com/NeoPanic/Glim
+[LayoutKeeper]: https://github.com/tumingke0/LayoutKeeper
